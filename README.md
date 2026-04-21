@@ -108,4 +108,4 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📧 Contact
 
-For questions or feedback, open an issue or contact [KarthikKaranam481]((https://github.com/KarthikKaranam481)).
+For questions or feedback, open an issue or contact [KarthikKaranam481](https://github.com/KarthikKaranam481).
