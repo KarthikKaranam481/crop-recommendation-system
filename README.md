@@ -32,7 +32,7 @@ requirements.txt                 # Python dependencies
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/venkateswara489/Crop-Recommendation-system.git
+   git clone (https://github.com/KarthikKaranam481)/Crop-Recommendation-system.git
    cd Crop-Recommendation-system
    ```
 
@@ -108,4 +108,4 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📧 Contact
 
-For questions or feedback, open an issue or contact [venkateswara489](https://github.com/venkateswara489).
+For questions or feedback, open an issue or contact [KarthikKaranam]((https://github.com/KarthikKaranam481)).
